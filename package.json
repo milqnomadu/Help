@@ -1,0 +1,17 @@
+{
+  "name": "headless-photopea-batch-demo",
+  "version": "1.0.0",
+  "description": "test",
+  "type": "module",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js",
+    "start": "node ./index.js"
+  },
+  "author": "Yikuan Sun",
+  "license": "MIT",
+  "dependencies": {
+    "headlessphotopea": "^1.1.0"
+  }
+}

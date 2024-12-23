@@ -1,0 +1,1 @@
+git doesn't store empty folders
